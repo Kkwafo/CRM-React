@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas Actualizado",
+      "empresa": "Dietetica solcito",
+      "email": "solcitogranos002@gmail.com",
+      "telefono": "35121512144",
+      "notas": "Hola",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Sofia",
+      "telefono": 35124185455,
+      "email": "Mercaditodelcentro@gmail.com",
+      "empresa": "El mercadito del centro"
+    },
+    {
+      "id": 3,
+      "nombre": "Josefina",
+      "telefono": 351264455458,
+      "email": "josfi@gmail.com",
+      "empresa": "DietGrand"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 351452548454,
+      "email": "miguel@granos.com",
+      "empresa": "Granos Miguel!"
+    },
+    {
+      "id": 5,
+      "nombre": "Mailen",
+      "telefono": 3585485478,
+      "email": "graciasporelbuzud@en.com",
+      "empresa": "Bien ahi"
+    }
+  ]
+}
